@@ -1,0 +1,1 @@
+pip install tqdm, openai, sql_metadata
